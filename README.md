@@ -1,2 +1,0 @@
-# Newquiz
-Created with CodeSandbox
